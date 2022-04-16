@@ -1,0 +1,20 @@
+h1 {
+    font-style: italic;
+}
+p {
+    text-align: center;
+}
+ul{
+    color: grey;
+}
+
+ul{
+    font-style: italic;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: blue;
+    font-style: italic;
+}

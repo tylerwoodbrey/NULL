@@ -1,0 +1,57 @@
+header{
+    background-color: rgb(203, 199, 199);
+    resize: horizontal;
+    border: solid 2px white;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+}
+
+a:visited{
+    color: black;
+}
+
+.graphs{
+    resize: both;
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    height: 100px;
+}
+
+.common{
+    height: 500vh;
+    width: 500px;
+
+}
+
+.tab{
+    left: 5px;
+    right: 5px;
+    margin-right: auto;
+    margin-left: auto;
+}
+main{
+    top: 200px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+
+}
+p{
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black;
+    background-color: rgb(203, 199, 199);
+    border: 2px white;
+    top: 5px;
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    text-align: center;
+}
